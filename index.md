@@ -23,6 +23,8 @@
 
 **Day 2: Outside of class**: (Note: all assignments in this course are due by 4 pm on the due date unless otherwise specified.)
 - Complete [A01: What is AI?](https://docs.google.com/document/d/1FCXrDtJ-GsDfZHwhr1TTU5kTHs7wSH5R9ZmXcdS-zZU/edit?usp=sharing)
+- Send email to help_desk requesting access to Boodlebot saying you have completed the training and are ready to start using it.
+- Complete and submit the [T01: What is AI?](https://docs.google.com/document/d/1wl_ieUjPVCzxmcE4LAlAnfK4I3_xj9LDlIzDBbNgZeA/edit?usp=sharing) and any earlier assign you missed.
 
 
 --- 
