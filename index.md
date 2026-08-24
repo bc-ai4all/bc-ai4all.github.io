@@ -6,6 +6,28 @@
 
 ---
 
+---
+
+## Day 2: Monday, August 24, 2026
+
+### Day 2: In class
+
+- Make sure we have joined Slack and done all readings and exercises in the textbook reading
+- Did you get access to the Moodle for Boodlebot for training? 
+- What is one idea from Chapter 1 that seemed important, surprising, confusing, or worth discussing? Explain.
+- Do [Peer Instruction Question from Chapter 1](https://moodle.berea.edu/mod/lti/view.php?id=848640)
+- Complete [T01: What is AI?](https://docs.google.com/document/d/1wl_ieUjPVCzxmcE4LAlAnfK4I3_xj9LDlIzDBbNgZeA/edit?usp=sharing)
+- Maybe using prompting to generate a few examples of AI in the world today
+- 
+- Maybe a brief discussion of AI and its impact on society, ethics, and the future of work
+- Send an email to help_desk requesting access to Boodlebot
+
+**Day 2: Outside of class**: (Note: all assignments in this course are due by 4 pm on the due date unless otherwise specified.)
+- Complete [A01: What is AI?](https://docs.google.com/document/d/1wl_ieUjPVCzxmcE4LAlAnfK4I3_xj9LDlIzDBbNgZeA/edit?usp=sharing)
+
+
+--- 
+
 ## Day 1: Wednesday, August 19, 2026
 
 ### Day 1: In class
