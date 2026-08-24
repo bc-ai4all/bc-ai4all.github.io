@@ -23,7 +23,7 @@
 - Send an email to help_desk requesting access to Boodlebot
 
 **Day 2: Outside of class**: (Note: all assignments in this course are due by 4 pm on the due date unless otherwise specified.)
-- Complete [A01: What is AI?](https://docs.google.com/document/d/1wl_ieUjPVCzxmcE4LAlAnfK4I3_xj9LDlIzDBbNgZeA/edit?usp=sharing)
+- Complete [A01: What is AI?](https://docs.google.com/document/d/1FCXrDtJ-GsDfZHwhr1TTU5kTHs7wSH5R9ZmXcdS-zZU/edit?usp=sharing)
 
 
 --- 
