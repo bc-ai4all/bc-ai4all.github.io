@@ -6,8 +6,6 @@
 
 ---
 
----
-
 ## Day 2: Monday, August 24, 2026
 
 ### Day 2: In class
@@ -16,6 +14,7 @@
 - Did you get access to the Moodle for Boodlebot for training? 
 - What is one idea from Chapter 1 that seemed important, surprising, confusing, or worth discussing? Explain.
 - Do [Peer Instruction Question from Chapter 1](https://moodle.berea.edu/mod/lti/view.php?id=848640)
+- Try [https://humanornot.so/](https://humanornot.so/) to see if you can tell the difference between human and AI generated text.
 - Complete [T01: What is AI?](https://docs.google.com/document/d/1wl_ieUjPVCzxmcE4LAlAnfK4I3_xj9LDlIzDBbNgZeA/edit?usp=sharing)
 - Maybe using prompting to generate a few examples of AI in the world today
 - 
