@@ -3,6 +3,22 @@
 ## Dr. Jan Pearce
 
 ### Berea College Fall 2026 Offering
+---
+
+## Day 4: Monday, August 31, 2026
+
+### Day 4: In class
+
+- Discuss [R02: Read Chapter 2](https://moodle.berea.edu/mod/lti/view.php?id=849138)
+- Read [How to Use AI Without Forgetting Everything You Learned](https://www.psychologytoday.com/us/blog/how-we-remember/202506/how-to-use-ai-without-forgetting-everything-you-learned)
+- Discuss the article and how it relates to your learning in this course
+- Read [AI Assistance Reduces Persistence and Hurts Independent Performance](https://ai-project-website.github.io/AI-assistance-reduces-persistence/?utm_brand=wired&utm_mailing=WIR_PremiumAILab_050626_UNPAID&cndid=85484935)
+- Join [Elements of AI](https://www.elementsofai.com/). Read section 1.1.
+
+
+### Day 4: Outside of class
+
+- Read [1.1 in Elements of AI: What is AI?](https://course.elementsofai.com/1/1) and [1.2 inElements of AI: What is AI?](https://course.elementsofai.com/1/2)
 
 ---
 
