@@ -10,15 +10,15 @@
 ### Day 4: In class
 
 - Discuss [R02: Read Chapter 2](https://moodle.berea.edu/mod/lti/view.php?id=849138)
-- We are going to get started on the homework in class today.
+- We are going to get started on the [A02: AI and Learning](https://docs.google.com/document/d/10KVMWRbMdWPNjeIHp42qHjPmQ-2fgiL6Cr75_5G7mT4/edit?usp=sharing) homework in class today.
   - Read [How to Use AI Without Forgetting Everything You Learned](https://www.psychologytoday.com/us/blog/how-we-remember/202506/how-to-use-ai-without-forgetting-everything-you-learned)
   
-  - Read [AI Assistance Reduces Persistence and Hurts Independent Performance](https://ai-project-website.github.io/AI-assistance-reduces-persistence/?utm_brand=wired&utm_mailing=WIR_PremiumAILab_050626_UNPAID&cndid=85484935) and discuss how this relates to your learning overall.
-- Join [Elements of AI](https://www.elementsofai.com/) and begin work on chapter 1, answering the questions ONLY in the Google Doc, but not yet in the book.
+  - Read [AI Assistance Reduces Persistence and Hurts Independent Performance](https://ai-project-website.github.io/AI-assistance-reduces-persistence/?utm_brand=wired&utm_mailing=WIR_PremiumAILab_050626_UNPAID&cndid=85484935) and discuss how this relates to your learning overall. 
+  - Join [Elements of AI](https://www.elementsofai.com/) and begin work on chapter 1, answering the questions ONLY in the Google Doc, but not yet in the book.
 
 ### Day 4: Outside of class
 
-- Complete [A02: AI and Learning](https://docs.google.com/document/d/10KVMWRbMdWPNjeIHp42qHjPmQ-2fgiL6Cr75_5G7mT4/edit?usp=sharing)
+- Complete [A02: AI and Learning](https://docs.google.com/document/d/10KVMWRbMdWPNjeIHp42qHjPmQ-2fgiL6Cr75_5G7mT4/edit?usp=sharing) 
 
 ---
 
