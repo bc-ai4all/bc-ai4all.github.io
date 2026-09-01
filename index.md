@@ -14,7 +14,7 @@
   - Read [How to Use AI Without Forgetting Everything You Learned](https://www.psychologytoday.com/us/blog/how-we-remember/202506/how-to-use-ai-without-forgetting-everything-you-learned)
   
   - Read [AI Assistance Reduces Persistence and Hurts Independent Performance](https://ai-project-website.github.io/AI-assistance-reduces-persistence/?utm_brand=wired&utm_mailing=WIR_PremiumAILab_050626_UNPAID&cndid=85484935) and discuss how this relates to your learning overall. 
-  - Join [Elements of AI](https://www.elementsofai.com/) and begin work on chapter 1, answering the questions ONLY in the Google Doc, but not yet in the book.
+  - Join [Elements of AI](https://www.elementsofai.com/) and begin work on chapter 1, answering all the questions from the book ONLY in the Google Doc, but not yet in the book.
 
 ### Day 4: Outside of class
 
