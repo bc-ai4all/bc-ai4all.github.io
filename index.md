@@ -3,6 +3,22 @@
 ## Dr. Jan Pearce
 
 ### Berea College Fall 2026 Offering
+
+---
+
+## Day 5: Wednesday, September 2, 2026
+
+### Day 5: In class
+
+- Change teams around
+- Open and share [T02: How AI “Reasons”](https://docs.google.com/document/d/1w9myhUaj3Svnd4rtkWU8aHxyGV9lJPFT0vSCfnREtNg/edit?usp=sharing)
+- Watch [Machine Learning & Artificial Intelligence: Crash Course Computer Science](https://youtu.be/z-EtmaFJieY?si=PVtwK_aBwpxc0tUj)
+- Continue to work through [T02: How AI “Reasons”](https://docs.google.com/document/d/1w9myhUaj3Svnd4rtkWU8aHxyGV9lJPFT0vSCfnREtNg/edit?usp=sharing) WITHOUT working ahead. Focus on the video, and only move beyond that question after the video is complete and you have completeed the looking up terms in the Google Doc.
+
+### Day 5: Outside of class
+
+- TBA
+
 ---
 
 ## Day 4: Monday, August 31, 2026
