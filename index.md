@@ -17,7 +17,8 @@
 
 ### Day 5: Outside of class
 
-- TBA
+- Complete [A03: Learning about Search](https://docs.google.com/document/d/1Dn7tNHEEWom4UB6UcfGr_hiO7Q5QpYP3M66eGfSu3mo/edit?usp=sharing)
+  - Note that as part of this you will be completing [R03: Reading Sections 3.1, 3.2, and 3.3](https://moodle.berea.edu/mod/lti/view.php?id=850497)
 
 ---
 
