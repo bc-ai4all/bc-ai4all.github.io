@@ -6,6 +6,10 @@
 
 ---
 
+## No class on Monday, September 7, 2026 - Enjoy Labor Day!
+
+---
+
 ## Day 5: Wednesday, September 2, 2026
 
 ### Day 5: In class
