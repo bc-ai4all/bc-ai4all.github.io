@@ -11,7 +11,7 @@
 ### Day 6: In class
 
 - Discuss homework
-- Do Teamwork T03: Searching for Solutions
+- Do Teamwork [T03: Searching for Solutions](https://docs.google.com/document/d/1I699Q5TKLokZtR9wIGBnyYiaFt49n8Jx01na0vvlo2A/edit?usp=sharing)
 - Work in [Elements of AI](https://www.elementsofai.com/)
 
 
