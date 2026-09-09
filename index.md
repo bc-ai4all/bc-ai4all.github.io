@@ -6,6 +6,21 @@
 
 ---
 
+## Day 6: Wednesday, September 9, 2026
+
+### Day 6: In class
+
+- Discuss homework
+- Do Teamwork T03: Searching for Solutions
+- Work in [Elements of AI](https://www.elementsofai.com/)
+
+
+### Day 6: Outside of class
+
+-  TBA
+
+---
+
 ## No class on Monday, September 7, 2026 - Enjoy Labor Day!
 
 ---
