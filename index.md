@@ -17,7 +17,8 @@
 
 ### Day 6: Outside of class
 
--  TBA
+-  Complete [A04: Informed & Adversarial Search](https://docs.google.com/document/d/156Ey1nwEJAPSRQ6Sips1-Bb5cmtYLLVQY9Ue9C3T45A/edit?usp=sharing) and submit to Moodle by 4 pm on Monday, September 14, 2026.
+  - Note that as part of this you will be completing [R04: Reading Sections 3.4 and 3.5](https://moodle.berea.edu/mod/lti/view.php?id=851270)
 
 ---
 
