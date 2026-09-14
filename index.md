@@ -11,7 +11,7 @@
 ### Day 7: In class
 
 - Discuss homework
-- Do Teamwork [T04: More Searching](https://docs.google.com/document/d/1KTIkCMXvwAD9TUmchOPUcC1WF2hKdz8bRFLwR6eW7Lo/edit?usp=sharingg)
+- Do Teamwork [T04: More Searching](TBA)
 - Work in [Elements of AI](https://www.elementsofai.com/)
 
 ### Day 7: Outside of class
