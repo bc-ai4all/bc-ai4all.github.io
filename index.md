@@ -12,11 +12,11 @@
 
 - Discuss homework
 - Do Teamwork [T04: More Searching](https://docs.google.com/document/d/1KTIkCMXvwAD9TUmchOPUcC1WF2hKdz8bRFLwR6eW7Lo/edit?usp=sharing)
-- Work more in [Elements of AI](https://www.elementsofai.com/)
+- Work more in [Elements of AI](https://www.elementsofai.com/) with an aim toward completing chapter 2 and the exercise in [A05: Games and Search](https://docs.google.com/document/d/1TDXdEfUGd6I87iMfwpYELThVD4M1yjt7p-zVb70DYN8/edit?usp=sharing)
 
 ### Day 7: Outside of class
 
-- TBA
+- Complete [A05: Games and Search](https://docs.google.com/document/d/1TDXdEfUGd6I87iMfwpYELThVD4M1yjt7p-zVb70DYN8/edit?usp=sharing)
 
 ---
 
