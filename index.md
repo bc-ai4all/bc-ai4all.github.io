@@ -6,6 +6,20 @@
 
 ---
 
+## Day 7: Monday, September 17, 2026
+
+### Day 7: In class
+
+- Discuss homework
+- Do Teamwork [T04: More Searching](https://docs.google.com/document/d/1KTIkCMXvwAD9TUmchOPUcC1WF2hKdz8bRFLwR6eW7Lo/edit?usp=sharingg)
+- Work in [Elements of AI](https://www.elementsofai.com/)
+
+### Day 7: Outside of class
+
+- TBA
+
+---
+
 ## Day 6: Wednesday, September 9, 2026
 
 ### Day 6: In class

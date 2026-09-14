@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chicken Crossing — Trace a Path</title>
+<style>
+  body{margin:0;padding:24px;background:#FDF9F0;color:#2B2B3A;
+       font-family:system-ui,"Segoe UI",Helvetica,Arial,sans-serif}
+  .wrap{max-width:1100px;margin:0 auto}
+  h1{font-size:1.5rem;margin:0 0 14px}
+  .bar{display:flex;align-items:center;gap:16px;margin-bottom:12px}
+  button{font:inherit;padding:8px 18px;border-radius:8px;cursor:pointer;
+         border:2px solid #4A4E7C;background:#fff;color:#4A4E7C}
+  .count{margin-left:auto;color:#5A5A6E}
+  .count b{font-size:1.3rem;color:#2B2B3A}
+  svg{display:block;width:100%;height:auto;background:#FDF9F0}
+  .hit{cursor:pointer}
+  .hit:focus{outline:none}
+  .hit:focus-visible{outline:3px solid #4A4E7C;outline-offset:2px}
+  .sr{position:absolute;width:1px;height:1px;padding:0;margin:-1px;
+      overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0}
+  .legend{display:flex;gap:20px;align-items:center;margin:0 0 10px;
+          color:#5A5A6E;font-size:.95rem}
+  .legend span{display:flex;align-items:center;gap:7px}
+  .legend svg{width:38px;height:8px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Chicken crossing: click a line to mark it</h1>
+  <div class="bar">
+    <button id="reset">Reset</button>
+    <p class="count">Red <b id="redCount">0</b> &nbsp;·&nbsp; Green <b id="greenCount">0</b></p>
+  </div>
+  <p class="legend">
+    <span><svg viewBox="0 0 38 8"><line x1="1" y1="4" x2="37" y2="4" stroke="#B9BEE0" stroke-width="3"/></svg> unmarked</span>
+    <span><svg viewBox="0 0 38 8"><line x1="1" y1="4" x2="37" y2="4" stroke="#D81E3F" stroke-width="5" stroke-dasharray="8 5"/></svg> red (dashed)</span>
+    <span><svg viewBox="0 0 38 8"><line x1="1" y1="4" x2="37" y2="4" stroke="#1B9E77" stroke-width="6"/></svg> green (solid)</span>
+  </p>
+  <svg id="g" viewBox="0 0 1000 500"
+       aria-label="Ten states of the chicken crossing puzzle, connected by sixteen transitions."></svg>
+  <div id="live" class="sr" aria-live="polite"></div>
+</div>
+<script>
+// Letters in order: robot, fox, chicken, chicken-feed.  N = near bank, F = far bank.
+const TOP = ["NNNN","NNNF","NNFN","NFNN","NFNF"];
+const BOT = ["FNFN","FNFF","FFNF","FFFN","FFFF"];
+
+// 16 transitions, matching the textbook diagram (the boat carries the robot plus up to two items).
+const EDGES = [
+  ["NNNN","FNFN"],["NNNN","FNFF"],["NNNN","FFNF"],["NNNN","FFFN"],
+  ["NNNF","FNFF"],["NNNF","FFNF"],["NNNF","FFFF"],
+  ["NNFN","FNFN"],["NNFN","FNFF"],["NNFN","FFFN"],["NNFN","FFFF"],
+  ["NFNN","FFNF"],["NFNN","FFFN"],["NFNN","FFFF"],
+  ["NFNF","FFNF"],["NFNF","FFFF"]
+];
+
+// Three-state cycle: 0 = plain, 1 = red, 2 = green.
+const STEPS = [
+  {name:"unmarked", stroke:"#B9BEE0", width:3, dash:"none"},
+  {name:"red",      stroke:"#D81E3F", width:5, dash:"10 6"},
+  {name:"green",    stroke:"#1B9E77", width:6, dash:"none"}
+];
+
+const ICONS = ["\u{1F916}","\u{1F98A}","\u{1F424}","\u{1F33E}"];
+const CW=160, CH=80, SPREAD=110, TOPY=60, BOTY=440;
+const Y1 = TOPY + CH/2, Y2 = BOTY - CH/2;   // where lines start and end
+
+const pos = {};
+TOP.forEach((s,i)=> pos[s] = {cx:100+i*200, cy:TOPY});
+BOT.forEach((s,i)=> pos[s] = {cx:100+i*200, cy:BOTY});
+
+const svg = document.getElementById("g");
+const NS = "http://www.w3.org/2000/svg";
+const el = (t,a)=>{const n=document.createElementNS(NS,t);
+                   for(const k in a) n.setAttribute(k,a[k]); return n;};
+
+// Spread the line endpoints along the bottom/top of each card so lines from
+// the same state don't stack on top of each other.
+const anchor = {};
+Object.keys(pos).forEach(s=>{
+  const mine = EDGES.map((e,i)=>({e,i})).filter(o=>o.e[0]===s||o.e[1]===s)
+    .sort((a,b)=>{
+      const oa = a.e[0]===s ? a.e[1] : a.e[0];
+      const ob = b.e[0]===s ? b.e[1] : b.e[0];
+      return pos[oa].cx - pos[ob].cx;
+    });
+  mine.forEach((o,k)=>{
+    (anchor[o.i] = anchor[o.i] || {})[s] =
+      pos[s].cx + ((k+1)/(mine.length+1))*SPREAD - SPREAD/2;
+  });
+});
+
+// Lines first, so the state cards sit on top of them.
+const redEl   = document.getElementById("redCount");
+const greenEl = document.getElementById("greenCount");
+const liveEl  = document.getElementById("live");
+const lines = [];
+
+function tally(){
+  let r=0, g=0;
+  lines.forEach(l=>{ if(l.state.step===1) r++; else if(l.state.step===2) g++; });
+  redEl.textContent = r; greenEl.textContent = g;
+}
+
+function paint(l, announce){
+  const s = STEPS[l.state.step];
+  l.vis.setAttribute("stroke", s.stroke);
+  l.vis.setAttribute("stroke-width", s.width);
+  l.vis.setAttribute("stroke-dasharray", s.dash);
+  l.hit.setAttribute("aria-label",
+    `Transition from state ${l.a} to state ${l.b}: ${s.name}`);
+  if(announce) liveEl.textContent = `${l.a} to ${l.b}: ${s.name}`;
+}
+
+EDGES.forEach(([a,b],i)=>{
+  const x1 = anchor[i][a], x2 = anchor[i][b];
+  const vis = el("line",{x1,y1:Y1,x2,y2:Y2,stroke:STEPS[0].stroke,
+                         "stroke-width":STEPS[0].width,"stroke-linecap":"round",
+                         "stroke-dasharray":STEPS[0].dash});
+  const hit = el("line",{x1,y1:Y1,x2,y2:Y2,stroke:"transparent",
+                         "stroke-width":20,"pointer-events":"all",class:"hit",
+                         tabindex:"0",role:"button"});
+  svg.appendChild(vis); svg.appendChild(hit);
+
+  const state = {step:0};
+  const rec = {vis,hit,state,a,b};
+  lines.push(rec);
+  paint(rec,false);
+
+  const advance = ()=>{
+    state.step = (state.step + 1) % 3;   // plain -> red -> green -> plain
+    paint(rec,true);
+    tally();
+  };
+  hit.addEventListener("click", advance);
+  hit.addEventListener("keydown", e=>{
+    if(e.key === "Enter" || e.key === " " || e.key === "Spacebar"){
+      e.preventDefault(); advance();
+    }
+  });
+});
+
+// State cards.
+Object.keys(pos).forEach(s=>{
+  const {cx,cy} = pos[s];
+  svg.appendChild(el("rect",{x:cx-CW/2,y:cy-CH/2,width:CW,height:CH,rx:10,
+                             fill:"#FFFFFF",stroke:"#B9BEE0","stroke-width":2}));
+  s.split("").forEach((L,k)=>{
+    const x = cx - 54 + k*36;
+    const ic = el("text",{x,y:cy-4,"text-anchor":"middle","font-size":18});
+    ic.textContent = ICONS[k];
+    const tx = el("text",{x,y:cy+24,"text-anchor":"middle","font-size":19,
+                          "font-weight":"700",fill:"#2B2B4A",
+                          "font-family":"ui-monospace,Menlo,Consolas,monospace"});
+    tx.textContent = L;
+    svg.appendChild(ic); svg.appendChild(tx);
+  });
+});
+
+document.getElementById("reset").addEventListener("click",()=>{
+  lines.forEach(l=>{ l.state.step = 0; paint(l,false); });
+  tally();
+  liveEl.textContent = "All transitions reset to unmarked.";
+});
+</script>
+</body>
+</html>
