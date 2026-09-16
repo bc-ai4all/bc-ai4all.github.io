@@ -16,7 +16,7 @@
 
 ### Day 8: Outside of class
 
-- Complete [06: Data, Datasets, & Probabilities](https://docs.google.com/document/d/16u-va-Vnpz9WzZDOv9jfR4WqK0TYrlNT8K10ITaXr98/edit?usp=sharing)
+- Complete [A06: Data, Datasets, & Probabilities](https://docs.google.com/document/d/16u-va-Vnpz9WzZDOv9jfR4WqK0TYrlNT8K10ITaXr98/edit?usp=sharing)
   - Note that as part of this you will be completing [R06: Reading Section 4.1](https://moodle.berea.edu/mod/lti/view.php?id=852052)
 
 
