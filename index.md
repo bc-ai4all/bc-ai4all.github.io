@@ -6,7 +6,21 @@
 
 ---
 
-## Day 7: Monday, September 17, 2026
+## Day 8: Wednesday, September 16, 2026
+
+### Day 8: In class
+
+- Discuss homework
+- Coordinate with your team to complete the questions in Chapter 2 of [Elements of AI](https://www.elementsofai.com/) using your answers in [A05: Games and Search](https://docs.google.com/document/d/1TDXdEfUGd6I87iMfwpYELThVD4M1yjt7p-zVb70DYN8/edit?usp=sharing).
+- Then turn your attention to [T05: Game Tree Detectives](https://moodle.berea.edu/mod/assign/view.php?id=852051)
+
+### Day 8: Outside of class
+
+- TBA
+
+---
+
+## Day 7: Monday, September 14, 2026
 
 ### Day 7: In class
 
