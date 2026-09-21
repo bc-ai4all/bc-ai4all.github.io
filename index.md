@@ -6,6 +6,20 @@
 
 ---
 
+## Day 9: Monday, September 21, 2026
+
+### Day 9: In class
+
+- Discuss homework
+- Complete [T06: Moonberry Harvest](https://docs.google.com/document/d/1oFTR3yOFJ6-2Mc_2ELataFsPkw2bc1F0C70Z1-75MgI/edit?usp=sharing)
+
+### Day 8: Outside of class
+
+- Complete [A07: Distributions](https://docs.google.com/document/d/1XZ9L28eJVLjeDfQX7JISoHXXbWg_hZzhZQfPcgF84UY/edit?usp=sharing)
+  - Note that as part of this you will be completing [R06: Reading Section 4.2](https://moodle.berea.edu/mod/lti/view.php?id=852568)
+
+---
+
 ## Day 8: Wednesday, September 16, 2026
 
 ### Day 8: In class
@@ -17,7 +31,7 @@
 ### Day 8: Outside of class
 
 - Complete [A06: Data, Datasets, & Probabilities](https://docs.google.com/document/d/16u-va-Vnpz9WzZDOv9jfR4WqK0TYrlNT8K10ITaXr98/edit?usp=sharing)
-  - Note that as part of this you will be completing [R06: Reading Section 4.1](https://moodle.berea.edu/mod/lti/view.php?id=852052)
+  - Note that as part of this you will be completing [R05: Reading Section 4.1](https://moodle.berea.edu/mod/lti/view.php?id=852052)
 
 
 ## Day 7: Monday, September 14, 2026
