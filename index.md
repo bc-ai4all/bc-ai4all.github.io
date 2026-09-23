@@ -6,6 +6,20 @@
 
 ---
 
+## Day 10: Wednesday, September 23, 2026
+
+### Day 10: In class
+
+- Discuss homework
+- Complete [T07: Bayes and Spam](https://docs.google.com/document/d/1vS25gnmuIjaBnvcUUVmCQ0NvyCTDUOhJ9AAw2kevC7U/edit?usp=sharing)
+
+### Day 10: Outside of class
+
+- Complete [A08: Data Trends and Training](https://docs.google.com/document/d/14mgy3AnmYT-cv__ZUkfrPZgEWc5DqKs63cfcOlcPLzA/edit?usp=sharing)
+  - Note that as part of this you will be completing [R07: Reading Section 4.3 and 4.4](https://moodle.berea.edu/mod/lti/view.php?id=852040)
+
+---
+
 ## Day 9: Monday, September 21, 2026
 
 ### Day 9: In class
@@ -13,7 +27,7 @@
 - Discuss homework
 - Complete [T06: Moonberry Harvest](https://docs.google.com/document/d/1oFTR3yOFJ6-2Mc_2ELataFsPkw2bc1F0C70Z1-75MgI/edit?usp=sharing)
 
-### Day 8: Outside of class
+### Day 9: Outside of class
 
 - Complete [A07: Distributions](https://docs.google.com/document/d/1XZ9L28eJVLjeDfQX7JISoHXXbWg_hZzhZQfPcgF84UY/edit?usp=sharing)
   - Note that as part of this you will be completing [R06: Reading Section 4.2](https://moodle.berea.edu/mod/lti/view.php?id=852568)
