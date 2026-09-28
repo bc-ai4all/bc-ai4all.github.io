@@ -15,7 +15,7 @@
 
 ### Day 11: Outside of class
 
-- TBA
+- Complete the Chapter 3 reading in [Elements of AI](https://www.elementsofai.com/3)
 
 ---
 
