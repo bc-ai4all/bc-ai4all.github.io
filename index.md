@@ -6,6 +6,19 @@
 
 ---
 
+## Day 11: Monday, September 28, 2026
+
+### Day 11: In class
+
+- Discuss homework
+- Work in [Elements of AI](https://www.elementsofai.com/)
+
+### Day 11: Outside of class
+
+- TBA
+
+---
+
 ## Day 10: Wednesday, September 23, 2026
 
 ### Day 10: In class
