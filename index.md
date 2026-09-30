@@ -6,6 +6,21 @@
 
 ---
 
+## Day 12: Wednesday, September 30, 2026
+
+### Day 12: In class
+
+- Peer Instruction questions
+- Discuss homework
+- Complete [T09: Recommender Systems](https://docs.google.com/document/d/1RHx0IxGzwP126ergjU7qlgoYlnpY7jskEXPrmM-VPiI/edit?usp=sharing)
+
+### Day 12 class
+
+- Complete [A09: Machine Learning](https://docs.google.com/document/d/1HS0p5UB1bD1Xkal8qOMsdbAzGqQLByn2kUPUIpV4AiU/edit?usp=drive_link)
+  - Note that as part of this you will be completing [R08: Reading Section 5.1, 5.2, 5.3, and 5.4](https://moodle.berea.edu/mod/lti/view.php?id=853574)
+
+---
+
 ## Day 11: Monday, September 28, 2026
 
 ### Day 11: In class
