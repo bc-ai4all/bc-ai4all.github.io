@@ -6,6 +6,19 @@
 
 ---
 
+## Day 12: Monday, October 5, 2026
+
+### Day 12: In class
+
+- Complete [TR1: Peerwise Review for E1](https://docs.google.com/document/d/17xzeygWMp0adodoc8NDTtwfozsv9UC1f2Pf5YH9meKM/edit?usp=sharing)
+
+### Day 12: Outside of class
+
+- Study for Exam E1
+
+
+---
+
 ## Day 12: Wednesday, September 30, 2026
 
 ### Day 12: In class
