@@ -14,7 +14,7 @@
 
 ### Day 13: Outside of class
 
-- Study for Exam E1
+- Study for Exam E1 
 
 
 ---
