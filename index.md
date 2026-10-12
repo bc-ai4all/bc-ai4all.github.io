@@ -6,6 +6,18 @@
 
 ---
 
+## Day 14: Monday, October 12, 2026
+
+### Day 14: In class
+
+- Exam E1
+
+## Day 14: Outside of class
+
+- TBA
+
+## Wednesday, October 7, 2026: No Class - Enjoy Mountain Day!
+
 ## Day 13: Monday, October 5, 2026
 
 ### Day 13: In class
