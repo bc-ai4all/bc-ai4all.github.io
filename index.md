@@ -6,15 +6,15 @@
 
 ---
 
-## Day 14: Wednesday, October 14, 2026
+## Day 15: Wednesday, October 14, 2026
 
-### Day 14: In class
+### Day 15: In class
 
 - How was the exam?
 - Complete [T09: Same Problem, Different Machine](https://docs.google.com/document/d/1pjsrqyVBg-39sZzhl2prugAQmg_-stAhtmbkSV5MElg/edit?usp=sharing)
 - If time permits, work in [Elements of AI](https://www.elementsofai.com/)
 
-### Day 14: Outside of class
+### Day 15: Outside of class
 
 - TBA
 
