@@ -16,7 +16,7 @@
 
 ### Day 15: Outside of class
 
-- TBA
+- Complete the Reading of Sections 4.1 and 4.2 in [Elements of AI](https://www.elementsofai.com/3) and complete [A11: Elements of AI - 4.1 & 4.2](https://docs.google.com/document/d/1dev9vC-1jzDQ2-zirAJoNZuDHqPVv19C0DSoCczUI2M/edit?usp=sharing)
 
 ---
 
@@ -28,7 +28,8 @@
 
 ## Day 14: Outside of class
 
-- TBA
+- Complete [A10: More Machine Learning](https://docs.google.com/document/d/14C6PhR216LFNgtQ3Rab4iV2Qbab1y-aOAwCUWuecuKE/edit?usp=sharing)
+  - Note that as part of this you will be completing [R09: Reading Section 5.5 and 5.6](https://moodle.berea.edu/mod/lti/view.php?id=854607)
 
 ## Wednesday, October 7, 2026: No Class - Enjoy Mountain Day!
 
