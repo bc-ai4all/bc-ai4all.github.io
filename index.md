@@ -6,6 +6,21 @@
 
 ---
 
+## Day 16: Monday, October 19, 2026
+
+### Day 16: In class
+
+- The exam will be returned at the end of class. Your homework is to go through it so we can discuss it in class on Wednesday, October 21, 2026.
+- Complete [T10: Predict by Proximity or Pattern?](https://docs.google.com/document/d/1niOt_w9Ogd_O3rNXk23iHuukrqLBUm9nYH6_cwETnCg/edit?usp=sharing)
+- If time permits, work in [Elements of AI](https://www.elementsofai.com/)
+
+### Day 16: Outside of class
+
+- Review your exam for discussion in class on Wednesday, October 21, 2026.
+
+
+---
+
 ## Day 15: Wednesday, October 14, 2026
 
 ### Day 15: In class
