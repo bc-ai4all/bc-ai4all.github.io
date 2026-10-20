@@ -6,18 +6,32 @@
 
 ---
 
+## Day 17: Wednesday, October 21, 2026
+
+### Day 17: In class
+
+- Discussion of the exam, which was returned on Monday, and review of questions
+- Complete [T10: Predict by Proximity or Pattern?](https://docs.google.com/document/d/1niOt_w9Ogd_O3rNXk23iHuukrqLBUm9nYH6_cwETnCg/edit?usp=sharing) - you wil have no more than 15 minutes since half the class is done.
+- Also, complete [T11: When the Algorithm Says NO...](https://docs.google.com/document/d/1h2J4GGSAe4-oODl31MxHJpKc7s-QSTPMwlyj4CmqYVI/edit?usp=sharing)
+- If time permits, work in [Elements of AI](https://www.elementsofai.com/) to review questions in the text to get correct answers.
+
+### Day 17: Outside of class
+
+- Read Chapter 5 in [Elements of AI](https://www.elementsofai.com/5) and complete [A12: Elements of AI - Ch5 Neural Networks](https://docs.google.com/document/d/1kprivkDupL-hqYu-vBF_fpXkZcQEbKQluOYWtfPAxvI/edit?usp=sharing)
+
+---
+
 ## Day 16: Monday, October 19, 2026
 
 ### Day 16: In class
 
 - The exam will be returned at the end of class. Your homework is to go through it so we can discuss it in class on Wednesday, October 21, 2026.
-- Complete [T10: Predict by Proximity or Pattern?](https://docs.google.com/document/d/1niOt_w9Ogd_O3rNXk23iHuukrqLBUm9nYH6_cwETnCg/edit?usp=sharing)
+- Begin and try to complete [T10: Predict by Proximity or Pattern?](https://docs.google.com/document/d/1niOt_w9Ogd_O3rNXk23iHuukrqLBUm9nYH6_cwETnCg/edit?usp=sharing)
 - If time permits, work in [Elements of AI](https://www.elementsofai.com/)
 
 ### Day 16: Outside of class
 
 - Review your exam for discussion in class on Wednesday, October 21, 2026.
-
 
 ---
 
