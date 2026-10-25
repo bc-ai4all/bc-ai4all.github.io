@@ -6,13 +6,27 @@
 
 ---
 
+## Day 18: Monday, October 26, 2026
+
+### Day 18: In class
+
+- Discuss answers from Chapter 5 in [Elements of AI](https://www.elementsofai.com/5) and fill them in when confident.
+- Complete [T11: When the Algorithm Says NO...](https://docs.google.com/document/d/1h2J4GGSAe4-oODl31MxHJpKc7s-QSTPMwlyj4CmqYVI/edit?usp=sharing)
+- If time permits, work in [Elements of AI](https://www.elementsofai.com/) to review questions in the text to get correct answers.
+
+### Day 18: Outside of class
+
+- TBA
+
+---
+
 ## Day 17: Wednesday, October 21, 2026
 
 ### Day 17: In class
 
 - Discussion of the exam, which was returned on Monday, and review of questions
 - Complete [T10: Predict by Proximity or Pattern?](https://docs.google.com/document/d/1niOt_w9Ogd_O3rNXk23iHuukrqLBUm9nYH6_cwETnCg/edit?usp=sharing) - you wil have no more than 15 minutes since half the class is done.
-- Also, complete [T11: When the Algorithm Says NO...](https://docs.google.com/document/d/1h2J4GGSAe4-oODl31MxHJpKc7s-QSTPMwlyj4CmqYVI/edit?usp=sharing)
+- Begin and try to complete [T11: When the Algorithm Says NO...](https://docs.google.com/document/d/1h2J4GGSAe4-oODl31MxHJpKc7s-QSTPMwlyj4CmqYVI/edit?usp=sharing)
 - If time permits, work in [Elements of AI](https://www.elementsofai.com/) to review questions in the text to get correct answers.
 
 ### Day 17: Outside of class
