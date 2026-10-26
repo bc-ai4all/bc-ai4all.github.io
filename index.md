@@ -16,8 +16,9 @@
 
 ### Day 18: Outside of class
 
-- Complete [A10: More Machine Learning](https://docs.google.com/document/d/1aN_WdoiS8MgCcLW5rNbBpd_ty04KvDM1F-CpTj3x_jY/edit?usp=drive_link)
-  - Note that as part of this you will be completing [R10: Reading Sections 6.1, 6.2, and 6.3](https://moodle.berea.edu/mod/lti/view.php?id=855739)
+- Complete [A13: More Machine Learning](https://docs.google.com/document/d/1aN_WdoiS8MgCcLW5rNbBpd_ty04KvDM1F-CpTj3x_jY/edit?usp=drive_link)
+- Note that as part of this you will be completing [R10: Reading Sections 6.1, 6.2, and 6.3](https://moodle.berea.edu/mod/lti/view.php?id=855739)
+
 ---
 
 ## Day 17: Wednesday, October 21, 2026
