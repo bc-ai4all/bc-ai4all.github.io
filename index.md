@@ -6,6 +6,20 @@
 
 ---
 
+## Day 19: Wednesday, October 28, 2026
+
+### Day 19: In class
+
+- Complete [T12: One Neuron Isn't Enough](https://docs.google.com/document/d/1iaseaKSM1MMIQVN7yhbk7VsYvkYL_1XBuG4KXT6f9v8/edit?usp=sharing)
+- If time permits, work in [Elements of AI](https://www.elementsofai.com/) to review questions in the text to get correct answers.
+
+### Day 19: Outside of class
+
+- Complete [A14: AI4All: More Neural Networks](https://docs.google.com/document/d/1QxUxnyOH64zaJmHeqGuW0bCH6liEZD8tkjjEotPoRCI/edit?usp=sharing)
+- Note that as part of this you will be completing [R11: Reading Sections 6.4, 6.5, and 6.6](https://moodle.berea.edu/mod/lti/view.php?id=855753)
+
+---
+
 ## Day 18: Monday, October 26, 2026
 
 ### Day 18: In class
