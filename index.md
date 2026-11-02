@@ -14,9 +14,7 @@
 
 ### Day 20: Outside of class
 
-- TBA
-
----
+- Complete [A15: Elements of AI-Predicting the Future](https://docs.google.com/document/d/1jmtLYCmOcLCXjCLbFfHT5DDxpmrz3T5c7Bn50f3rC00/edit?usp=sharing)
 
 ---
 
