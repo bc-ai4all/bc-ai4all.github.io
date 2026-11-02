@@ -6,6 +6,20 @@
 
 ---
 
+## Day 20: Monday, November 2, 2026
+
+### Day 20: In class
+
+- Complete [T13: How Networks Learn: Going Down the Mountain](https://docs.google.com/document/d/1VBbB_iJnHot_I2C--nGArnT8Eav5tXaxVoMk0aO2lks/edit?usp=sharing)
+
+### Day 20: Outside of class
+
+- TBA
+
+---
+
+---
+
 ## Day 19: Wednesday, October 28, 2026
 
 ### Day 19: In class
