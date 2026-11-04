@@ -6,6 +6,20 @@
 
 ---
 
+---
+
+## Day 21: Wednesday, November 4, 2026
+
+### Day 21: In class
+
+- Complete [T14: Large Language Models: Building the Assistant](https://docs.google.com/document/d/1zUmqFjVy0l_qF5HJuTAROpRsoEopAHGTqTvITF7m5cM/edit?usp=sharing)
+
+### Day 21: Outside of class
+
+- TBA
+
+---
+
 ## Day 20: Monday, November 2, 2026
 
 ### Day 20: In class
