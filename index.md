@@ -16,7 +16,7 @@
 
 ### Day 21: Outside of class
 
-- TBA
+- Complete [A16: Elements of AI - Societal Implications](https://docs.google.com/document/d/1kUSJfT8qIO8AglrjmZfzcMtoyyYztw82iIwiB50IFI4/edit?usp=sharing)
 
 ---
 
