@@ -6,6 +6,17 @@
 
 ---
 
+## Day 22: Monday, November 9, 2026
+
+### Day 22: In class
+
+- Complete [T15: AI in the World: Benefits, Harms, and Who Decides](https://docs.google.com/document/d/1x8YSffG3BWrmysCfaS3RAj83BX0G2otqCMLV5tVHp4k/edit?usp=sharing)
+- You will be presenting in class today, so be attentive to the recommended times given.
+
+### Day 22: Outside of class
+
+- Complete [A17: When AI goes Rogue](https://docs.google.com/document/d/1nRUHCwQOMTBeknHvFe_fIo-cQ6J9Sec9iBjJGicIFRI/edit?usp=sharing)
+
 ---
 
 ## Day 21: Wednesday, November 4, 2026
