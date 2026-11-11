@@ -6,6 +6,19 @@
 
 ---
 
+## Day 23: Wednesday, November 11, 2026
+
+### Day 23: In class
+
+- Presentations and discussion of [T15: AI in the World: Benefits, Harms, and Who Decides](https://docs.google.com/document/d/1x8YSffG3BWrmysCfaS3RAj83BX0G2otqCMLV5tVHp4k/edit?usp=sharing)
+- Discuss and complete the work in [Elements of AI](https://www.elementsofai.com/) when you are sure of your answers.
+
+### Day 23: Outside of class
+
+- tba
+
+---
+
 ## Day 22: Monday, November 9, 2026
 
 ### Day 22: In class
