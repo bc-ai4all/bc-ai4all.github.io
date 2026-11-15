@@ -6,6 +6,21 @@
 
 ---
 
+## Day 24: Monday, November 16, 2026
+
+### Day 24: In class
+
+- Today will be an unusual day in class. 
+  - We will have a short class for the first 45 minutes with more presentations and discussion of [T15: AI in the World: Benefits, Harms, and Who Decides](https://docs.google.com/document/d/1x8YSffG3BWrmysCfaS3RAj83BX0G2otqCMLV5tVHp4k/edit?usp=sharing)
+  - We will take a 10 minute-long break
+  - Then we will head to CMIT 316 for a presentation entitled "Beyond the Black Box: Building Trustworthy and Secure AI Systems" by Dr. Feyi Oyeniyi who is applying for a job as a computer science faculty member.
+
+### Day 24: Outside of class
+
+- Complete [A19: Feedback on Dr. Oyeniyi's Presentation](https://docs.google.com/document/d/1NerZwg_kPkdAXXFqBAvbAm9HIdD0gVOHcGhyO_i_h7M/edit?usp=sharing)
+
+---
+
 ## Day 23: Wednesday, November 11, 2026
 
 ### Day 23: In class
