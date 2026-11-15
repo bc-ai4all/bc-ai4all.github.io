@@ -15,7 +15,7 @@
 
 ### Day 23: Outside of class
 
-- tba
+- Complete [A18: Data Set Search](https://docs.google.com/document/d/1DQjcNY_U50zgXv4GIhGmF-6Ts8LFn7QkIxlTF4HFpWk/edit?usp=sharing)
 
 ---
 
