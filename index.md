@@ -21,7 +21,7 @@
 
 ### Day 24: Outside of class
 
-- Complete [A19: Feedback on Dr. Oyeniyi's Presentation](https://docs.google.com/document/d/1NerZwg_kPkdAXXFqBAvbAm9HIdD0gVOHcGhyO_i_h7M/edit?usp=sharing)
+- Complete [A19: Project Team and Feedback on Presentation on Dr. Feyi Oyeniyi](https://docs.google.com/document/d/1NerZwg_kPkdAXXFqBAvbAm9HIdD0gVOHcGhyO_i_h7M/edit?usp=sharing)
 
 ---
 
