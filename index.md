@@ -11,7 +11,7 @@
 ### Day 24: In class
 
 - Today will be an unusual day in class. 
-- We will have a short class for the first 45 minutes including: 
+- We will have a short first part of class for the first 45 minutes including: 
   - More presentations and discussion of [T15: AI in the World: Benefits, Harms, and Who Decides](https://docs.google.com/document/d/1x8YSffG3BWrmysCfaS3RAj83BX0G2otqCMLV5tVHp4k/edit?usp=sharing)
   - Discuss [A17: When AI goes Rogue](https://docs.google.com/document/d/1nRUHCwQOMTBeknHvFe_fIo-cQ6J9Sec9iBjJGicIFRI/edit?usp=sharing)
   - Watch [Colab Environment + Basics](https://www.youtube.com/watch?v=H8mhcIRsnh8)
