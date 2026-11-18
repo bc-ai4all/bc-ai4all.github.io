@@ -6,17 +6,31 @@
 
 ---
 
+## Day 25: Wednesday, November 18, 2026
+
+### Day 25: In class
+ 
+- More presentations and discussion of [T15: AI in the World: Benefits, Harms, and Who Decides](https://docs.google.com/document/d/1x8YSffG3BWrmysCfaS3RAj83BX0G2otqCMLV5tVHp4k/edit?usp=sharing)
+- Watch [Colab Environment + Basics](https://www.youtube.com/watch?v=H8mhcIRsnh8)
+- Watch [Supercharge your Programming in Colab with AI-Powered tools](https://www.youtube.com/watch?v=V7RXyqFUR98)
+- Explore [CSC 186 Elements of AI - Chapter 3 Extended into Google Colab](https://colab.research.google.com/drive/1Bx3DzfW-VSRb2BtDkSoWKfI8qidw9IJY?usp=sharing)
+- Explore [https://www.kaggle.com/](https://www.kaggle.com/)
+
+
+### Day 25: Outside of class
+
+- Enjoy your Thanksgiving Break, homework-free!
+
+---
+
 ## Day 24: Monday, November 16, 2026
 
 ### Day 24: In class
 
 - Today will be an unusual day in class. 
 - We will have a short first part of class for the first 45 minutes including: 
-  - More presentations and discussion of [T15: AI in the World: Benefits, Harms, and Who Decides](https://docs.google.com/document/d/1x8YSffG3BWrmysCfaS3RAj83BX0G2otqCMLV5tVHp4k/edit?usp=sharing)
   - Discuss [A17: When AI goes Rogue](https://docs.google.com/document/d/1nRUHCwQOMTBeknHvFe_fIo-cQ6J9Sec9iBjJGicIFRI/edit?usp=sharing)
-  - Watch [Colab Environment + Basics](https://www.youtube.com/watch?v=H8mhcIRsnh8)
-  - Watch [Supercharge your Programming in Colab with AI-Powered tools](https://www.youtube.com/watch?v=V7RXyqFUR98)
-- We will take a 10-minute-long break
+  - Watch [Colab Environment + Basics](https://www.youtube.com/watch?
 - Then we will head to CMIT 316 for a presentation entitled "Beyond the Black Box: Building Trustworthy and Secure AI Systems" by Dr. Feyi Oyeniyi who is applying for a job as a computer science faculty member.
 
 ### Day 24: Outside of class
